@@ -1,21 +1,7 @@
-body{
-    background: pink ;
-    color: white;
-
-    
-}
-.heading{
-    width: 80%;
-    font-size: 22px;
-
-}
-.name_of_objects{
-    color: black;
-    font-size: 20px;
-}
 #camera{
     border: 2px dashed magenta;
     width: 350px;
     height: 300px;
-
+    background-color: black;
 }
+
